@@ -4,4 +4,12 @@
     height: 100%;
     top: 0;
     left: 0;
+    z-index: -1;
+}
+
+.menu{
+    width: 20vw;
+    background: aqua;
+    float: right;
+    z-index: 1;
 }
